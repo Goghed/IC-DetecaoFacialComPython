@@ -19,6 +19,8 @@ to install you will need
 3 - install the libraries that are underlined using pip from python
 
 4 - the dlib library can present problems in the installation, for this in this link you have to download a file to download and install it, you need to download it and within the IDE terminal access the files in this folder, in my case I saved the folder on the desktop and from the terminal I cd until I entered the directory where the file is and then I gave the command pip install <FileName> and so it did the installation successfully, it is necessary to restart the IDE to recognize the library.
+  
+https://drive.google.com/drive/folders/1SUEPZsKRzUpBI3IeOcFopqjIT5jfDH7Q?usp=sharing
 
 pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
 
